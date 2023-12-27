@@ -1,0 +1,13 @@
+[
+    {
+        "color": "red", 
+        "active": false, 
+        "situation": "A"
+    },
+    {
+        "color": "blue", 
+        "active": true, 
+        "situation": "A"
+    }
+]
+

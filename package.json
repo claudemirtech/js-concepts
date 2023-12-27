@@ -1,0 +1,26 @@
+{
+  "name": "js-concepts",
+  "version": "1.0.0",
+  "description": "js concepts",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudemirtech/js-concepts.git"
+  },
+  "keywords": [
+    "jest",
+    "tests"
+  ],
+  "author": "Claudemir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/claudemirtech/js-concepts/issues"
+  },
+  "homepage": "https://github.com/claudemirtech/js-concepts#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
